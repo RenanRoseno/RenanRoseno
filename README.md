@@ -5,9 +5,9 @@
 
  I’m currently studying Computer Science on IFCE. I'm in love for technology and learn new things about software.
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true)"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true&hide_border=true)"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact&hide_border=true">
  
 </p>
 <!-- 

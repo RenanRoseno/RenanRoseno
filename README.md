@@ -19,6 +19,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/node/node-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </p>
 <!-- 
 - 🔭 I’m currently working on ...

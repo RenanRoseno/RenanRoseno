@@ -10,6 +10,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact&hide_border=true">
  
 </p>
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+ </p>
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

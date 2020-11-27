@@ -5,7 +5,9 @@
 
  I’m currently studying Computer Science on IFCE. I'm in love for technology and learn new things about software.
  <p align="left">
- <img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true)"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true)"> 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!-- 
 - 🔭 I’m currently working on ...

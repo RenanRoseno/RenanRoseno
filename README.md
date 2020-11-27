@@ -1,6 +1,6 @@
 ### Hi there, my name is Renan Roseno dos Santos 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
-	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
+	<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
  
 <!--
 **RenanRoseno/RenanRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

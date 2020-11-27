@@ -8,6 +8,8 @@
  <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true)"> 
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact">
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
 </p>
 <!-- 
 - 🔭 I’m currently working on ...

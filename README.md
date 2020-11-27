@@ -1,5 +1,5 @@
 <p align="center">
-### Hi there, my name is Renan Roseno dos Santos 👋
+ <h1> Hi there, my name is Renan Roseno dos Santos 👋</h1>
 </p>
 <!--
 **RenanRoseno/RenanRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

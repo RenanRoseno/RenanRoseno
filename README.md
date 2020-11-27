@@ -5,7 +5,7 @@
 
  I’m currently studying Computer Science on IFCE. I'm in love for technology and learn new things about software.
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true&theme=radical)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  

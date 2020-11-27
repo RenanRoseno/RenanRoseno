@@ -7,7 +7,7 @@
  <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true)"> 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact">
 </p>
 <!-- 
 - 🔭 I’m currently working on ...

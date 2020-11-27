@@ -4,7 +4,9 @@
 **RenanRoseno/RenanRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ I’m currently studying Computer Science on IFCE. I'm in love for technology and learn new things about softwares
+.
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

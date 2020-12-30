@@ -10,7 +10,7 @@
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true&theme=react&hide_border=true)" height="250" width="450"> 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact&theme=react&hide_border=true&langs_count=20">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact&theme=react&hide_border=true&langs_count=8">
  
 </p>
 <p align="left">

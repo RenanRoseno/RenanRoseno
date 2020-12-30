@@ -11,7 +11,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&show_icons=true&theme=react&hide_border=true)"> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact&theme=react&hide_border=true">
-<a href="https://wakatime.com/@renanroseno"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=@renanroseno&layout=compact&theme=react&hide_border=true"></a>
+<a href="https://wakatime.com/renanroseno"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=@renanroseno&layout=compact&theme=react&hide_border=true"></a>
  
 </p>
 <p align="center">

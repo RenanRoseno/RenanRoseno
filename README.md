@@ -6,7 +6,9 @@
 <!--
 **RenanRoseno/RenanRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
  
- FullStack developer. I’m currently studying Computer Science at IFCE. I'm in love for technology and learn new things about software.
+ FullStack developer. :computer: <br> 
+ I’m currently studying Computer Science at IFCE. :books: <br>
+ I'm in love for technology and learn new things about software. :space_invader::heart:
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=RenanRoseno&theme=react&show_icons=true&count_private=true&hide_border=true" height="190"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRoseno&layout=compact&theme=react&hide_border=true&langs_count=8">

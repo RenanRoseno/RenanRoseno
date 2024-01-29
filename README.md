@@ -8,7 +8,7 @@
 <!--
 **RenanRoseno/RenanRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
  
- FullStack developer. :computer: <br> 
+ Full stack developer. :computer: <br> 
  I’m currently studying Computer Science at IFCE. :books: <br>
  I'm in love for technology and learn new topics about software technologies. :space_invader::heart:
 <p align="left">

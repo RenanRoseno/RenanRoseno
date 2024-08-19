@@ -29,7 +29,7 @@ I### Hi there, my name is Renan Roseno dos Santos 👋
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
-<p>🔥 11/30 commit days</p>
+<p>🔥 7/30 commit days</p>
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

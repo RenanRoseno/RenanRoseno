@@ -29,7 +29,6 @@
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
-<p>🔥 2/30 commit days</p> 
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
